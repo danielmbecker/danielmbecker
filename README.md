@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Anything!**
 
-- 📫 How to reach me **Daniel-Becker.Dev**
+- 📫 How to reach me **Daniel-Becker.Dev@gmail.com**
 
 - ⚡ Fun fact **I am a Time Wizard 🧙‍♂️**
 
