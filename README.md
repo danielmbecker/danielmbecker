@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack and MVC Paradigm**
 
-- 👨‍💻 All of my projects are available at [daniel-becker.dev] (https://www.daniel-becker.dev/)
+- 👨‍💻 All of my projects are available at [www.daniel-becker.dev] (https://www.daniel-becker.dev/)
 
 - 💬 Ask me about **Anything!**
 
