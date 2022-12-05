@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Daniel!</h1>
 <h3 align="center">A full stack developer from California.</h3>
 
-- 🔭 I’m currently working on **A Nutrition Tracking App**
+- 🔭 I’m currently working on an **Inflation Tracking App**
 
 - 🌱 I’m currently learning **MERN Stack and MVC Paradigm**
 
-- 👨‍💻 All of my projects are available at [https://websolutionsbydaniel.netlify.app/](https://websolutionsbydaniel.netlify.app/)
+- 👨‍💻 All of my projects are available at [daniel-becker.dev] (https://www.daniel-becker.dev/)
 
 - 💬 Ask me about **Anything!**
 
