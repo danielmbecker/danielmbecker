@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **DanielBecker.Dev@gmail.com**
 
-- ⚡ Fun fact **I am a Time Wizard 🧙‍♂️**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/d_beck_2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d_beck_2" height="30" width="40" /></a>
