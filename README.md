@@ -1,15 +1,8 @@
-<h1 align="center">Hi 👋, I'm Daniel!</h1>
-<h3 align="center">A full stack developer from California.</h3>
+<h1 align="center">Full Stack Web and Mobile developer</h1>
 
-- 🔭 I’m currently working on an **Inflation Tracking App**
 
-- 🌱 I’m currently learning **MERN Stack and MVC Paradigm**
 
-- 👨‍💻 All of my projects are available at www.daniel-becker.dev
-
-- 💬 Ask me about **Anything!**
-
-- 📫 How to reach me **DanielBecker.Dev@gmail.com**
+Reach me **DanielBecker.Dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
